@@ -15,4 +15,12 @@
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/venkat932023/LeetCode/tree/master/0258-add-digits) |
+## Array
+|  |
+| ------- |
+| [2574-left-and-right-sum-differences](https://github.com/venkat932023/LeetCode/tree/master/2574-left-and-right-sum-differences) |
+## Prefix Sum
+|  |
+| ------- |
+| [2574-left-and-right-sum-differences](https://github.com/venkat932023/LeetCode/tree/master/2574-left-and-right-sum-differences) |
 <!---LeetCode Topics End-->
