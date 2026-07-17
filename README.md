@@ -15,11 +15,13 @@
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/venkat932023/LeetCode/tree/master/0258-add-digits) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/venkat932023/LeetCode/tree/master/2161-partition-array-according-to-given-pivot) |
 ## Array
 |  |
 | ------- |
 | [0724-find-pivot-index](https://github.com/venkat932023/LeetCode/tree/master/0724-find-pivot-index) |
 | [1991-find-the-middle-index-in-array](https://github.com/venkat932023/LeetCode/tree/master/1991-find-the-middle-index-in-array) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/venkat932023/LeetCode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2574-left-and-right-sum-differences](https://github.com/venkat932023/LeetCode/tree/master/2574-left-and-right-sum-differences) |
 ## Prefix Sum
 |  |
@@ -27,4 +29,8 @@
 | [0724-find-pivot-index](https://github.com/venkat932023/LeetCode/tree/master/0724-find-pivot-index) |
 | [1991-find-the-middle-index-in-array](https://github.com/venkat932023/LeetCode/tree/master/1991-find-the-middle-index-in-array) |
 | [2574-left-and-right-sum-differences](https://github.com/venkat932023/LeetCode/tree/master/2574-left-and-right-sum-differences) |
+## Two Pointers
+|  |
+| ------- |
+| [2161-partition-array-according-to-given-pivot](https://github.com/venkat932023/LeetCode/tree/master/2161-partition-array-according-to-given-pivot) |
 <!---LeetCode Topics End-->
