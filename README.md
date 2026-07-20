@@ -19,6 +19,7 @@
 ## Array
 |  |
 | ------- |
+| [0136-single-number](https://github.com/venkat932023/LeetCode/tree/master/0136-single-number) |
 | [0724-find-pivot-index](https://github.com/venkat932023/LeetCode/tree/master/0724-find-pivot-index) |
 | [1991-find-the-middle-index-in-array](https://github.com/venkat932023/LeetCode/tree/master/1991-find-the-middle-index-in-array) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/venkat932023/LeetCode/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -33,4 +34,8 @@
 |  |
 | ------- |
 | [2161-partition-array-according-to-given-pivot](https://github.com/venkat932023/LeetCode/tree/master/2161-partition-array-according-to-given-pivot) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/venkat932023/LeetCode/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
