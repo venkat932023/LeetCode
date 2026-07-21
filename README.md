@@ -41,6 +41,7 @@
 | ------- |
 | [0136-single-number](https://github.com/venkat932023/LeetCode/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/venkat932023/LeetCode/tree/master/0268-missing-number) |
+| [0693-binary-number-with-alternating-bits](https://github.com/venkat932023/LeetCode/tree/master/0693-binary-number-with-alternating-bits) |
 ## Hash Table
 |  |
 | ------- |
