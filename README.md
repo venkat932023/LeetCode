@@ -40,6 +40,7 @@
 |  |
 | ------- |
 | [0136-single-number](https://github.com/venkat932023/LeetCode/tree/master/0136-single-number) |
+| [0191-number-of-1-bits](https://github.com/venkat932023/LeetCode/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/venkat932023/LeetCode/tree/master/0268-missing-number) |
 | [0693-binary-number-with-alternating-bits](https://github.com/venkat932023/LeetCode/tree/master/0693-binary-number-with-alternating-bits) |
 ## Hash Table
@@ -54,4 +55,8 @@
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/venkat932023/LeetCode/tree/master/0268-missing-number) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0191-number-of-1-bits](https://github.com/venkat932023/LeetCode/tree/master/0191-number-of-1-bits) |
 <!---LeetCode Topics End-->
