@@ -24,6 +24,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/venkat932023/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0136-single-number](https://github.com/venkat932023/LeetCode/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/venkat932023/LeetCode/tree/master/0268-missing-number) |
+| [0540-single-element-in-a-sorted-array](https://github.com/venkat932023/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0724-find-pivot-index](https://github.com/venkat932023/LeetCode/tree/master/0724-find-pivot-index) |
 | [1991-find-the-middle-index-in-array](https://github.com/venkat932023/LeetCode/tree/master/1991-find-the-middle-index-in-array) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/venkat932023/LeetCode/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -55,6 +56,7 @@
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/venkat932023/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0268-missing-number](https://github.com/venkat932023/LeetCode/tree/master/0268-missing-number) |
+| [0540-single-element-in-a-sorted-array](https://github.com/venkat932023/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 ## Sorting
 |  |
 | ------- |
