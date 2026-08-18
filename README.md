@@ -21,6 +21,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/venkat932023/LeetCode/tree/master/0001-two-sum) |
+| [0033-search-in-rotated-sorted-array](https://github.com/venkat932023/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0136-single-number](https://github.com/venkat932023/LeetCode/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/venkat932023/LeetCode/tree/master/0268-missing-number) |
 | [0724-find-pivot-index](https://github.com/venkat932023/LeetCode/tree/master/0724-find-pivot-index) |
@@ -52,6 +53,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/venkat932023/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0268-missing-number](https://github.com/venkat932023/LeetCode/tree/master/0268-missing-number) |
 ## Sorting
 |  |
