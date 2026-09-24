@@ -24,6 +24,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/venkat932023/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0136-single-number](https://github.com/venkat932023/LeetCode/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/venkat932023/LeetCode/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/venkat932023/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/venkat932023/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0724-find-pivot-index](https://github.com/venkat932023/LeetCode/tree/master/0724-find-pivot-index) |
 | [1991-find-the-middle-index-in-array](https://github.com/venkat932023/LeetCode/tree/master/1991-find-the-middle-index-in-array) |
@@ -38,6 +39,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0287-find-the-duplicate-number](https://github.com/venkat932023/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/venkat932023/LeetCode/tree/master/2161-partition-array-according-to-given-pivot) |
 ## Bit Manipulation
 |  |
@@ -45,6 +47,7 @@
 | [0136-single-number](https://github.com/venkat932023/LeetCode/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/venkat932023/LeetCode/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/venkat932023/LeetCode/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/venkat932023/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0693-binary-number-with-alternating-bits](https://github.com/venkat932023/LeetCode/tree/master/0693-binary-number-with-alternating-bits) |
 ## Hash Table
 |  |
@@ -56,6 +59,7 @@
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/venkat932023/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0268-missing-number](https://github.com/venkat932023/LeetCode/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/venkat932023/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/venkat932023/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 ## Sorting
 |  |
@@ -65,4 +69,12 @@
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/venkat932023/LeetCode/tree/master/0191-number-of-1-bits) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/venkat932023/LeetCode/tree/master/0287-find-the-duplicate-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/venkat932023/LeetCode/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
