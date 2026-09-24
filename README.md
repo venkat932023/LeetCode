@@ -25,6 +25,7 @@
 | [0136-single-number](https://github.com/venkat932023/LeetCode/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/venkat932023/LeetCode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/venkat932023/LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/venkat932023/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/venkat932023/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0724-find-pivot-index](https://github.com/venkat932023/LeetCode/tree/master/0724-find-pivot-index) |
 | [1991-find-the-middle-index-in-array](https://github.com/venkat932023/LeetCode/tree/master/1991-find-the-middle-index-in-array) |
@@ -54,6 +55,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/venkat932023/LeetCode/tree/master/0001-two-sum) |
 | [0268-missing-number](https://github.com/venkat932023/LeetCode/tree/master/0268-missing-number) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/venkat932023/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 ## Binary Search
 |  |
 | ------- |
