@@ -41,6 +41,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0160-intersection-of-two-linked-lists](https://github.com/venkat932023/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0287-find-the-duplicate-number](https://github.com/venkat932023/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/venkat932023/LeetCode/tree/master/2161-partition-array-according-to-given-pivot) |
 ## Bit Manipulation
@@ -56,6 +57,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/venkat932023/LeetCode/tree/master/0001-two-sum) |
 | [0041-first-missing-positive](https://github.com/venkat932023/LeetCode/tree/master/0041-first-missing-positive) |
+| [0160-intersection-of-two-linked-lists](https://github.com/venkat932023/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0268-missing-number](https://github.com/venkat932023/LeetCode/tree/master/0268-missing-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/venkat932023/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 ## Binary Search
@@ -84,5 +86,6 @@
 ## Linked List
 |  |
 | ------- |
+| [0160-intersection-of-two-linked-lists](https://github.com/venkat932023/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0237-delete-node-in-a-linked-list](https://github.com/venkat932023/LeetCode/tree/master/0237-delete-node-in-a-linked-list) |
 <!---LeetCode Topics End-->
