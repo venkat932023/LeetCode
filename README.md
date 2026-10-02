@@ -43,6 +43,7 @@
 | ------- |
 | [0160-intersection-of-two-linked-lists](https://github.com/venkat932023/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0287-find-the-duplicate-number](https://github.com/venkat932023/LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [1721-swapping-nodes-in-a-linked-list](https://github.com/venkat932023/LeetCode/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/venkat932023/LeetCode/tree/master/2161-partition-array-according-to-given-pivot) |
 ## Bit Manipulation
 |  |
@@ -88,4 +89,5 @@
 | ------- |
 | [0160-intersection-of-two-linked-lists](https://github.com/venkat932023/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0237-delete-node-in-a-linked-list](https://github.com/venkat932023/LeetCode/tree/master/0237-delete-node-in-a-linked-list) |
+| [1721-swapping-nodes-in-a-linked-list](https://github.com/venkat932023/LeetCode/tree/master/1721-swapping-nodes-in-a-linked-list) |
 <!---LeetCode Topics End-->
